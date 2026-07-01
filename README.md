@@ -82,7 +82,7 @@ It took you 3 attempts.
 
 ## 📸 Output
 
-![Game Output](screenshots/output.png)
+![Game Output](screenshot/output.png)
 
 ---
 
